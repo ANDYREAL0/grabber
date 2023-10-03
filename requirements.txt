@@ -1,0 +1,10 @@
+requests
+httpx
+asyncio
+httpx
+psutil
+requests
+pyperclip
+fernet
+pyinstaller
+pycryptodome
