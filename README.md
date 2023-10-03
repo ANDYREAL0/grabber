@@ -5,4 +5,4 @@
 3. 그담에 **dist/grabber.exe** 뿌리기 ㄱㄱ
 + resourcehacker로 아이콘 없애셈.
 
-![Uploading image.png…]()
+![image.png]()
